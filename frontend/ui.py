@@ -2,7 +2,7 @@
 import streamlit as st
 import requests
 
-API_URL = "https://ai-resume-analyzer-wjcc.onrender.com/"
+API_URL = "https://ai-resume-analyzer-wjcc.onrender.com"
 
 # ---------------- PAGE CONFIG ----------------
 
